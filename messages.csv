@@ -1,0 +1,13 @@
+message,label
+"Hello how are you","not-spam"
+"Hi pa call me later","not-spam"
+"Are we meeting today","not-spam"
+"Good morning have a nice day","not-spam"
+"Let us study together","not-spam"
+"Your OTP is 482931 do not share","not-spam"
+"Win a free iPhone now click here","spam"
+"Congratulations you won 100000 cash prize","spam"
+"Claim your reward immediately","spam"
+"Limited offer buy now","spam"
+"Urgent your account will be blocked","spam"
+"Free recharge click this link","spam"
